@@ -1,5 +1,23 @@
-Australia:DangLine
-Australia:DangerTrack
-Australia:TestTrack
-Australia:Track1.kml
-Australia:Dangpath
+Australia:Archer Field Drift Park
+Australia:Barbagallo Large
+Australia:Carnell Raceway
+Australia:Collie Motorplex
+Australia:Lakeside Park
+Australia:Luddenham
+Australia:Queensland Layout 1
+Australia:Queensland Layout 2
+Australia:Queensland Layout 3
+Australia:Wakefield inner Circuit
+Australia:Wakefield outer Circuit
+Canada:Toronto Motorsports Park
+Germany:Nürburgring Nordschleife
+Japan:Mt Haruna (Akina)
+Japan:Tsukuba Circuit
+Malaysia:Sepang F1 Circuit
+New Zealand:Bruce McLaren Motorsportpark Large
+New Zealand:Pukekohe Park Raceway
+South Africa:Midvaal
+South Africa:Phakisa
+South Africa:Redstar Raceway
+South Africa:Zwartkops Raceway
+USA:Button Willow 1
